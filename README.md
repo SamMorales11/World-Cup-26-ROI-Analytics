@@ -12,7 +12,9 @@ An end-to-end data science and machine learning pipeline designed to expose mark
 ```text
 WORLD-CUP-ROI-ANALYTICS/
 │
-├── src/
+├── src/<img width="1912" height="821" alt="Screenshot 2026-07-14 104846" src="https://github.com/user-attachments/assets/40d689da-1ec7-4dcb-8705-dcb6d9201579" />
+<img width="1912" height="821" alt="Screenshot 2026-07-14 104846" src="https://github.com/user-attachments/assets/f9e482c3-d0d8-49a3-910e-1d5c2939f0bc" />
+
 │   ├── __init__.py             # Package indicator
 │   ├── database.py             # Cloud Neon Tech engine initialization
 │   ├── analytics.py            # ROI Score & Hidden Gem extraction
@@ -32,5 +34,8 @@ WORLD-CUP-ROI-ANALYTICS/
 ## 📊 Interactive Dashboards & Insights
 Feature 1: Top 10 Underpriced Overachievers (ROI Score)
 Identifies players yielding the highest on-field performance return relative to their current market valuation. Higher scores indicate premium efficiency.
-<img width="1912" height="707" alt="Screenshot 2026-07-14 104634" src="https://github.com/user-attachments/assets/f1936641-25f4-4e78-9f2e-0ee682ee2bc6" />
+<img width="1912" height="707" alt="Screenshot 2026-07-14 104634" src="https://github.com/user-attachments/assets/fa919228-3ac6-4064-9c55-d4966e98969a" />
 
+Feature 2: Squad Value vs Tournament Progress
+A macro-level view mapping total national squad values against the highest stage achieved, complete with a global squad value benchmark line (€1,080.8M).
+<img width="1912" height="821" alt="Screenshot 2026-07-14 104846" src="https://github.com/user-attachments/assets/1971c0d3-0f24-4dcc-858c-2a445b83f016" />
