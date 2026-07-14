@@ -44,3 +44,40 @@ A macro-level view mapping total national squad values against the highest stage
 *   **Feature 3:** Top 10 Clutch Player Index
 Tracks critical late-game execution by mapping out the top players who scored decisive goals at or after the 80th minute.
 <img width="576" height="266" alt="Screenshot 2026-07-14 105438" src="https://github.com/user-attachments/assets/07aff095-71ef-4c25-aeb6-d8439e5c982f" />
+
+## 🚀 How to Run the Project
+
+*   **Clone the Repository:**
+```text
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+cd YOUR_REPO_NAME
+```
+
+*   **Install Dependencies:**
+```text
+pip install pandas numpy scikit-learn plotly sqlalchemy psycopg2-binary python-dotenv
+```
+
+*   **Configure Environment Variables:**
+*   Create a .env file in the root directory and insert your Neon Tech connection string:
+```text
+DATABASE_URL=postgresql://user:password@your-neon-host.neon.tech/neondb?sslmode=require
+```
+
+*   **Configure Environment Variables:**
+```text
+# Run ROI Analysis
+python src/analytics.py
+
+# Generate Progress Dashboard
+python src/dashboard.py
+
+# Generate Clutch Index Visuals
+python src/clutch_index.py
+
+# Train and Evaluate Machine Learning Model
+python src/regression_model.py
+```
+
+*   **Configure Environment Variables:**
+Open any .html file inside the notebooks/ directory using your preferred web browser to explore the fully interactive features.
