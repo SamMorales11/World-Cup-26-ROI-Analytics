@@ -32,14 +32,14 @@ WORLD-CUP-ROI-ANALYTICS/
 ```
 
 ## 📊 Interactive Dashboards & Insights
-Feature 1: Top 10 Underpriced Overachievers (ROI Score)
+*   **Feature 1:** Top 10 Underpriced Overachievers (ROI Score)
 Identifies players yielding the highest on-field performance return relative to their current market valuation. Higher scores indicate premium efficiency.
 <img width="1912" height="707" alt="Screenshot 2026-07-14 104634" src="https://github.com/user-attachments/assets/fa919228-3ac6-4064-9c55-d4966e98969a" />
 
-Feature 2: Squad Value vs Tournament Progress
+*   **Feature 2:** Squad Value vs Tournament Progress
 A macro-level view mapping total national squad values against the highest stage achieved, complete with a global squad value benchmark line (€1,080.8M).
 <img width="1912" height="821" alt="Screenshot 2026-07-14 104846" src="https://github.com/user-attachments/assets/1971c0d3-0f24-4dcc-858c-2a445b83f016" />
 
-Feature 3: Top 10 Clutch Player Index
+*   **Feature 3:** Top 10 Clutch Player Index
 Tracks critical late-game execution by mapping out the top players who scored decisive goals at or after the 80th minute.
 <img width="576" height="266" alt="Screenshot 2026-07-14 105438" src="https://github.com/user-attachments/assets/07aff095-71ef-4c25-aeb6-d8439e5c982f" />
