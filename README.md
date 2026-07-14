@@ -28,3 +28,7 @@ WORLD-CUP-ROI-ANALYTICS/
 ├── main_migration.py           # Core cloud database ingestion script
 └── .env                        # Environment variables (Ignored in git)
 ```
+
+## 📊 Interactive Dashboards & Insights
+Feature 1: Top 10 Underpriced Overachievers (ROI Score)
+Identifies players yielding the highest on-field performance return relative to their current market valuation. Higher scores indicate premium efficiency.
