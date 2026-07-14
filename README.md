@@ -32,3 +32,5 @@ WORLD-CUP-ROI-ANALYTICS/
 ## 📊 Interactive Dashboards & Insights
 Feature 1: Top 10 Underpriced Overachievers (ROI Score)
 Identifies players yielding the highest on-field performance return relative to their current market valuation. Higher scores indicate premium efficiency.
+<img width="1912" height="707" alt="Screenshot 2026-07-14 104634" src="https://github.com/user-attachments/assets/f1936641-25f4-4e78-9f2e-0ee682ee2bc6" />
+
