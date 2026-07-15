@@ -43,7 +43,7 @@ A macro-level view mapping total national squad values against the highest stage
 
 *   **Feature 3:** Top 10 Clutch Player Index
 Tracks critical late-game execution by mapping out the top players who scored decisive goals at or after the 80th minute.
-<img width="576" height="266" alt="Screenshot 2026-07-14 105438" src="https://github.com/user-attachments/assets/07aff095-71ef-4c25-aeb6-d8439e5c982f" />
+<img width="1894" height="731" alt="Screenshot 2026-07-15 181812" src="https://github.com/user-attachments/assets/04b2593d-2c13-498f-aa85-50a79ecac1bc" />
 
 ## 🚀 How to Run the Project
 
