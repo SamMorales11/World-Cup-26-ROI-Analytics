@@ -1,13 +1,13 @@
 ## ValuePitch 2026: World Cup ROI Analytics & Performance Prediction
 
-An end-to-end data science and machine learning pipeline designed to expose market inefficiencies in football talent scouting. By leveraging cloud data engineering, custom efficiency metrics, and predictive modeling, this project identifies undervalued assets ("hidden gems") and forecasts fair market value adjustments based on real-time tournament performance.
+An end to end data science and machine learning pipeline designed to expose market inefficiencies in football talent scouting. By leveraging cloud data engineering, custom efficiency metrics, and predictive modeling, this project identifies undervalued assets ("hidden gems") and forecasts fair market value adjustments based on real-time tournament performance.
 
 ## 🛠️ Tech Stack & Architecture
 
 *   **Database Infrastructure:** Neon Tech (Cloud PostgreSQL), SQLAlchemy, Psycopg2
 *   **Data Pipeline & Cleaning:** Python, Pandas, NumPy
 *   **Interactive Visualizations:** Plotly Express, Plotly Graph Objects (HTML-rendered executive dashboards)
-*   **Machine Learning:** Scikit-Learn (Linear Regression), Train-Test Split validation
+*   **Machine Learning:** Scikit Learn (Linear Regression), Train-Test Split validation
 
 ```text
 WORLD-CUP-ROI-ANALYTICS/
@@ -38,11 +38,11 @@ Identifies players yielding the highest on-field performance return relative to 
 <img width="1912" height="707" alt="Screenshot 2026-07-14 104634" src="https://github.com/user-attachments/assets/fa919228-3ac6-4064-9c55-d4966e98969a" />
 
 *   **Feature 2:** Squad Value vs Tournament Progress
-A macro-level view mapping total national squad values against the highest stage achieved, complete with a global squad value benchmark line (€1,080.8M).
+A macro level view mapping total national squad values against the highest stage achieved, complete with a global squad value benchmark line (€1,080.8M).
 <img width="1912" height="821" alt="Screenshot 2026-07-14 104846" src="https://github.com/user-attachments/assets/1971c0d3-0f24-4dcc-858c-2a445b83f016" />
 
 *   **Feature 3:** Top 10 Clutch Player Index
-Tracks critical late-game execution by mapping out the top players who scored decisive goals at or after the 80th minute.
+Tracks critical late game execution by mapping out the top players who scored decisive goals at or after the 80th minute.
 <img width="1894" height="731" alt="Screenshot 2026-07-15 181812" src="https://github.com/user-attachments/assets/04b2593d-2c13-498f-aa85-50a79ecac1bc" />
 
 ## 🚀 How to Run the Project
